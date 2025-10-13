@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Donation Website](https://donate-sepia.vercel.app/index.html)
 
-- 🌱 I’m currently learning ****Spring Boot**, **Microservices****
+- 🌱 I’m currently learning ****Spring Boot**
 
 - 👯 I’m looking to collaborate on **Java + Spring Boot projects**
 
